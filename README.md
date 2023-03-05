@@ -1,4 +1,8 @@
-## Prometheus-101
+## Cloud-Native-101
+
+**NOTE:**
+* View Day-1 in `main` branch.
+* View Day-2 in `node-exporter` branch.
 
 * Prometheus official website: https://prometheus.io/
 * Prometheus official documentation: https://prometheus.io/docs/introduction/overview/
