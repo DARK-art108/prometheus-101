@@ -28,7 +28,7 @@ NOTE: Use my docker-compose.yml file to setup Prometheus, Grafana and CAdvisor.
 
 ### How to setup?
 
-* Clone the repo: `git clone <repo>
+* Clone the repo: `git clone <repo>`
 * Run `docker-compose up` to start the containers.
 * Run `docker-compose down` to stop the containers.
 
